@@ -1,10 +1,10 @@
-# 🎁 Amigo Secreto
+# Amigo Secreto
 
 Este proyecto es una aplicación web interactiva creada con **HTML**, **CSS** y **JavaScript** que permite jugar al clásico juego de "Amigo Secreto" de forma sencilla y divertida.
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 ✅ Agregar participantes (nombres de amigos)  
 ✅ Sorteo aleatorio de un amigo secreto entre todos los participantes  
@@ -14,7 +14,7 @@ Este proyecto es una aplicación web interactiva creada con **HTML**, **CSS** y 
 
 ---
 
-## 🚀 ¿Cómo funciona?
+## ¿Cómo funciona?
 
 1. Ingresa los nombres uno por uno haciendo clic en **“Añadir”**.
 2. Una vez tengas varios participantes, haz clic en **“Sortear amigo”**.
@@ -23,14 +23,7 @@ Este proyecto es una aplicación web interactiva creada con **HTML**, **CSS** y 
 
 ---
 
-## 🌐 Prueba la app en línea
-
-👉 [Haz clic aquí para jugar online](https://AgenciaMulti.github.io/amigo-secreto/)  
-*(Reemplaza este link cuando lo publiques con GitHub Pages)*
-
----
-
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 📂 amigo-secreto
 ├── index.html
